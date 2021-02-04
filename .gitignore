@@ -1,0 +1,13 @@
+# Jar file
+*.jar
+
+# Compiled class file
+*.class
+
+# Others files
+.classpath
+.project
+.gitattributes
+
+# Sources
+.settings/

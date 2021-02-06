@@ -1,4 +1,4 @@
-package br.com.zluck.model;
+package com.zluck.cm.model;
 
 @FunctionalInterface
 public interface CampoObservador {

@@ -1,4 +1,4 @@
-package br.com.zluck.view;
+package com.zluck.cm.view;
 
 import javax.swing.JFrame;
 

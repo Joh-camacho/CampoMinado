@@ -1,4 +1,4 @@
-package br.com.zluck.view;
+package com.zluck.cm.view;
 
 import java.awt.Color;
 import java.awt.event.MouseEvent;
@@ -9,9 +9,9 @@ import javax.swing.JButton;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
-import br.com.zluck.model.Campo;
-import br.com.zluck.model.CampoEvento;
-import br.com.zluck.model.CampoObservador;
+import com.zluck.cm.model.Campo;
+import com.zluck.cm.model.CampoEvento;
+import com.zluck.cm.model.CampoObservador;
 
 @SuppressWarnings("serial")
 public class BotaoCampo extends JButton implements CampoObservador, MouseListener {

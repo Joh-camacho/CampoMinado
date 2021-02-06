@@ -1,4 +1,4 @@
-package br.com.zluck.view;
+package com.zluck.cm.view;
 
 import java.awt.GridLayout;
 
@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
-import br.com.zluck.model.Tabuleiro;
+import com.zluck.cm.model.Tabuleiro;
 
 @SuppressWarnings("serial")
 public class PainelTabuleiro extends JPanel {

@@ -1,4 +1,4 @@
-package br.com.zluck.view;
+package com.zluck.cm.view;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.SwingConstants;
 
-import br.com.zluck.model.Tabuleiro;
+import com.zluck.cm.model.Tabuleiro;
 
 @SuppressWarnings("serial")
 public class Dificuldade extends JPanel {
